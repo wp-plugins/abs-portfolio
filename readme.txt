@@ -1,4 +1,4 @@
-=== ABS Accordion ===
+=== ABS Portfolio ===
 Contributors: absiddik
 Tags: Portfolio, WP Portfolio, Nice Portfolio, Hover effect portfolio, 
 Requires at least: 3.9
